@@ -34,11 +34,35 @@ mkdir -p \
 echo "Collecting Omarchy baseline..."
 echo "Output: $OUT"
 
+
 # --------------------------------------------------
 # Packages
 # --------------------------------------------------
 
 echo "Collecting packages..."
+
+# Helper for package queries that may return no results
+collect_optional() {
+    local output="$1"
+    shift
+
+    if "$@" > "$output"; then
+        return 0
+    else
+        local status=$?
+
+        if [[ "$status" -eq 1 ]]; then
+            # No matching packages
+            : > "$output"
+            return 0
+        fi
+
+        echo "WARNING: Command failed: $*" >&2
+        echo "Exit status: $status" >&2
+
+        return "$status"
+    fi
+}
 
 # All installed packages
 pacman -Qq \
@@ -52,13 +76,17 @@ pacman -Qqe \
 pacman -Qqen \
     > "$PACKAGES/packages-explicit-native.txt"
 
-# Foreign packages (including AUR packages)
-pacman -Qqm \
-    > "$PACKAGES/packages-foreign.txt"
+# Explicitly installed foreign packages
+collect_optional \
+    "$PACKAGES/packages-foreign.txt" \
+    pacman -Qqm
 
-# Packages installed as dependencies
-pacman -Qqd \
-    > "$PACKAGES/packages-dependencies.txt"
+# Dependency-installed packages
+collect_optional \
+    "$PACKAGES/packages-dependencies.txt" \
+    pacman -Qqd
+
+echo "Package collection completed."
 
 # --------------------------------------------------
 # Applications
