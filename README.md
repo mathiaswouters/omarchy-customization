@@ -3,6 +3,7 @@
 ## Run customize script:
 ```bash
 chmod +x customize.sh
+chmod +x scripts/*.sh
 
 ./customize.sh
 ```
