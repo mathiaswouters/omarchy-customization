@@ -1,1 +1,0 @@
-# script to configure wifi
