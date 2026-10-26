@@ -11,23 +11,26 @@ if [ ! -d "$SCRIPT_DIR" ]; then
     exit 1
 fi
 
-echo "--- Phase 1: Running Installation Scripts ---"
-# Loop only through top-level files in the scripts folder
-for script in "$SCRIPT_DIR"/*; do
-    # Ensure it is a file, executable, and contains 'install' in the name
-    if [ -f "$script" ] && [ -x "$script" ] && [[ "$(basename "$script")" == *install* ]]; then
-        echo "Executing: $script"
-        "$script"
-    fi
-done
+# Helper function to log and source a script
+run_script() {
+    local script_path="$1"
+    local script_name
+    script_name=$(basename "$script_path")
+    
+    echo "=== Executing: $script_name ==="
+    . "$script_path"
+    echo "--- Finished: $script_name ---"
+    echo "" # Adds a blank line for better readability
+}
 
-echo "--- Phase 2: Running Remaining Configuration Scripts ---"
-for script in "$SCRIPT_DIR"/*; do
-    # Ensure it is a file, executable, and does NOT contain 'install' in the name
-    if [ -f "$script" ] && [ -x "$script" ] && [[ "$(basename "$script")" != *install* ]]; then
-        echo "Executing: $script"
-        "$script"
-    fi
-done
+# Execute each script using the helper function
+run_script ./"$SCRIPT_DIR"/install-brave.sh
+run_script ./"$SCRIPT_DIR"/install-zsh.sh
+run_script ./"$SCRIPT_DIR"/install-tmux.sh
+run_script ./"$SCRIPT_DIR"/install-yazi.sh
+run_script ./"$SCRIPT_DIR"/install-stow.sh
+run_script ./"$SCRIPT_DIR"/install-dotfiles.sh
+run_script . "$SCRIPT_DIR"/install-hyprland-overrides.sh
+run_script ./"$SCRIPT_DIR"/set-shell.sh
 
 echo "--- Customization Complete! ---"
