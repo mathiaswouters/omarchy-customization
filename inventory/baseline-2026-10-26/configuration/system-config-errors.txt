@@ -1,4 +1,0 @@
-find: ‘/etc/credstore’: Permission denied
-find: ‘/etc/credstore.encrypted’: Permission denied
-find: ‘/etc/cryptsetup-keys.d’: Permission denied
-find: ‘/etc/sudoers.d’: Permission denied

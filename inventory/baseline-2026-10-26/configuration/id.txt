@@ -1,1 +1,0 @@
-uid=1000(mathias) gid=1000(mathias) groups=1000(mathias),998(wheel)
