@@ -1,7 +1,7 @@
 # omarchy-customization
 
 ```bash
-omarchy-custom/
+omarchy-customization/
 │
 ├── README.md
 │
