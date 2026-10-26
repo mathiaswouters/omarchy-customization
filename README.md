@@ -1,5 +1,6 @@
 # omarchy-customization
 
+## Repo structure:
 ```bash
 omarchy-customization/
 │
@@ -38,4 +39,11 @@ omarchy-customization/
 │   └── post-update
 │
 └── backup/
+```
+
+## Run collection script:
+```bash
+chmod +x inventory/collect.sh
+
+./inventory/collect.sh
 ```
