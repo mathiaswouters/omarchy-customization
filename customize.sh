@@ -29,7 +29,7 @@ run_script ./"$SCRIPT_DIR"/install-tmux.sh
 run_script ./"$SCRIPT_DIR"/install-yazi.sh
 run_script ./"$SCRIPT_DIR"/install-stow.sh
 run_script ./"$SCRIPT_DIR"/install-dotfiles.sh
-run_script ./ "$SCRIPT_DIR"/install-hyprland-overrides.sh
+run_script ./"$SCRIPT_DIR"/install-hyprland-overrides.sh
 run_script ./"$SCRIPT_DIR"/set-shell.sh
 
 echo "--- Customization Complete! ---"
