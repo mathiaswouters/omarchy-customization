@@ -1,0 +1,11 @@
+All installed packages:
+1018
+
+Explicit packages:
+163
+
+Foreign packages:
+0
+
+Dependency packages:
+855

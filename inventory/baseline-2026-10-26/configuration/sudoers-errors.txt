@@ -1,0 +1,1 @@
+find: ‘/etc/sudoers.d’: Permission denied

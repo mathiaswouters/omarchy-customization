@@ -1,0 +1,525 @@
+/home/mathias/.config/alacritty/alacritty.toml
+/home/mathias/.config/autostart/limine-snapper-notify.desktop
+/home/mathias/.config/autostart/org.fcitx.Fcitx5.desktop
+/home/mathias/.config/autostart/print-applet.desktop
+/home/mathias/.config/BraveSoftware/Brave-Browser-Beta/NativeMessagingHosts/com.omarchy.copy_url.json
+/home/mathias/.config/BraveSoftware/Brave-Browser-Beta/NativeMessagingHosts/com.omarchy.ytdlp.json
+/home/mathias/.config/BraveSoftware/Brave-Browser/NativeMessagingHosts/com.omarchy.copy_url.json
+/home/mathias/.config/BraveSoftware/Brave-Browser/NativeMessagingHosts/com.omarchy.ytdlp.json
+/home/mathias/.config/BraveSoftware/Brave-Browser-Nightly/NativeMessagingHosts/com.omarchy.copy_url.json
+/home/mathias/.config/BraveSoftware/Brave-Browser-Nightly/NativeMessagingHosts/com.omarchy.ytdlp.json
+/home/mathias/.config/btop/btop.conf
+/home/mathias/.config/chromium/ActorSafetyLists/9.8200.9609/listdata.json
+/home/mathias/.config/chromium/ActorSafetyLists/9.8200.9609/manifest.json
+/home/mathias/.config/chromium/ActorSafetyLists/9.8200.9609/_metadata/verified_contents.json
+/home/mathias/.config/chromium/AmountExtractionHeuristicRegexes/4/heuristic_regexes.binarypb
+/home/mathias/.config/chromium/AmountExtractionHeuristicRegexes/4/manifest.json
+/home/mathias/.config/chromium/AmountExtractionHeuristicRegexes/4/_metadata/verified_contents.json
+/home/mathias/.config/chromium/BrowserMetrics-spare.pma
+/home/mathias/.config/chromium/CaptchaProviders/8.5419.4434/captcha_providers.json
+/home/mathias/.config/chromium/CaptchaProviders/8.5419.4434/manifest.json
+/home/mathias/.config/chromium/CaptchaProviders/8.5419.4434/_metadata/verified_contents.json
+/home/mathias/.config/chromium/CertificateRevocation/10861/crl-set
+/home/mathias/.config/chromium/CertificateRevocation/10861/LICENSE
+/home/mathias/.config/chromium/CertificateRevocation/10861/manifest.json
+/home/mathias/.config/chromium/CertificateRevocation/10861/_metadata/verified_contents.json
+/home/mathias/.config/chromium/component_crx_cache/1bf1f200dcccd461b2d029d000d0fcf800f0571c932db31467b9d5d301e0a98f
+/home/mathias/.config/chromium/component_crx_cache/23759e3f6d0119a00038b963cec9fb7abafd7b65a35a7e83c7697511db59e6e7
+/home/mathias/.config/chromium/component_crx_cache/37d183b933697a62791bf4d91eef0f197685818a1d70405561412344dad3e0a9
+/home/mathias/.config/chromium/component_crx_cache/38c89b12bb20a8f2751c9c7cd2e31c173a47af08c115e1ecccc2f5151a2cf2c6
+/home/mathias/.config/chromium/component_crx_cache/3b1293b1cd2b0b9ebc8c64bf5c6a0407ffad78a0364bbac71c5fe7d3e1bd7657
+/home/mathias/.config/chromium/component_crx_cache/3eb16d6c28b502ac4cfee8f4a148df05f4d93229fa36a71db8b08d06329ff18a
+/home/mathias/.config/chromium/component_crx_cache/4348a0084d1b8423f252a367db1ce7d1276afd0285cf5523feca7b6e56d5d679
+/home/mathias/.config/chromium/component_crx_cache/46d05ed355954bd63911a81603715ac86a8ebc4af71125ba73456e3bdf884f07
+/home/mathias/.config/chromium/component_crx_cache/545666a4efd056351597bb386aea1368105ededc976ed5650d8682daab9f37ff
+/home/mathias/.config/chromium/component_crx_cache/56c21927faa028be6ce18c931660eec37e41da4bfbfd47cafa48350f828c0dbd
+/home/mathias/.config/chromium/component_crx_cache/70bcc1c2cb16afb045c97b70f1731fa8a6d01de21662a3edf14143f26336eb06
+/home/mathias/.config/chromium/component_crx_cache/7b05c14dba04ed522210b733f004cb0e74d7679a653b19bd029f9bc0e6b19903
+/home/mathias/.config/chromium/component_crx_cache/90f18b4d4c016decb9a3c2bfe9802ca432b0b7313519ce6901c549c7ff9716e0
+/home/mathias/.config/chromium/component_crx_cache/970a3e1af7f986ad66e212796dcd4a2db1210f7222cdfaa7d59d491fbe0369af
+/home/mathias/.config/chromium/component_crx_cache/abd93867c038d4d17c101ace2226d7e21303d984d7097271392bae6be478495b
+/home/mathias/.config/chromium/component_crx_cache/ae216724654f3e52d3c502328caf83f773e66cc5818c38850165864005a35169
+/home/mathias/.config/chromium/component_crx_cache/c1d06372335775cfd1512f62e8a0464d08f5058a6a622904f2357fb2c3aa6b09
+/home/mathias/.config/chromium/component_crx_cache/c52c62a7c50daf7d3f73ec16977cd4b0ea401710807d5dbe3850941dd1b73a70
+/home/mathias/.config/chromium/component_crx_cache/d3d7173b45515677b8bdc6bb426086249f99d9e7dbd40987f76709589d5ba687
+/home/mathias/.config/chromium/component_crx_cache/f03009dcc5450d95e1d8d6872673ce7aba570d972f86b44572378930bc7786e7
+/home/mathias/.config/chromium/component_crx_cache/metadata.json
+/home/mathias/.config/chromium/Crash Reports/settings.dat
+/home/mathias/.config/chromium/Crowd Deny/2026.10.22.61/manifest.json
+/home/mathias/.config/chromium/Crowd Deny/2026.10.22.61/_metadata/verified_contents.json
+/home/mathias/.config/chromium/Crowd Deny/2026.10.22.61/Preload Data
+/home/mathias/.config/chromium/Default/Account Web Data
+/home/mathias/.config/chromium/Default/Account Web Data-journal
+/home/mathias/.config/chromium/Default/Affiliation Database
+/home/mathias/.config/chromium/Default/Affiliation Database-journal
+/home/mathias/.config/chromium/Default/AutofillAiModelCache/LOCK
+/home/mathias/.config/chromium/Default/AutofillAiModelCache/LOG
+/home/mathias/.config/chromium/Default/AutofillAiModelCache/LOG.old
+/home/mathias/.config/chromium/Default/AutofillStrikeDatabase/LOCK
+/home/mathias/.config/chromium/Default/AutofillStrikeDatabase/LOG
+/home/mathias/.config/chromium/Default/AutofillStrikeDatabase/LOG.old
+/home/mathias/.config/chromium/Default/BookmarkMergedSurfaceOrdering
+/home/mathias/.config/chromium/Default/BudgetDatabase/LOCK
+/home/mathias/.config/chromium/Default/BudgetDatabase/LOG
+/home/mathias/.config/chromium/Default/BudgetDatabase/LOG.old
+/home/mathias/.config/chromium/Default/chrome_cart_db/LOCK
+/home/mathias/.config/chromium/Default/chrome_cart_db/LOG
+/home/mathias/.config/chromium/Default/chrome_cart_db/LOG.old
+/home/mathias/.config/chromium/Default/ClientCertificates/LOCK
+/home/mathias/.config/chromium/Default/ClientCertificates/LOG
+/home/mathias/.config/chromium/Default/ClientCertificates/LOG.old
+/home/mathias/.config/chromium/Default/commerce_subscription_db/LOCK
+/home/mathias/.config/chromium/Default/commerce_subscription_db/LOG
+/home/mathias/.config/chromium/Default/commerce_subscription_db/LOG.old
+/home/mathias/.config/chromium/Default/Cookies
+/home/mathias/.config/chromium/Default/Cookies-journal
+/home/mathias/.config/chromium/Default/DawnGraphiteCache/data_0
+/home/mathias/.config/chromium/Default/DawnGraphiteCache/data_1
+/home/mathias/.config/chromium/Default/DawnGraphiteCache/data_2
+/home/mathias/.config/chromium/Default/DawnGraphiteCache/data_3
+/home/mathias/.config/chromium/Default/DawnGraphiteCache/index
+/home/mathias/.config/chromium/Default/DawnWebGPUCache/data_0
+/home/mathias/.config/chromium/Default/DawnWebGPUCache/data_1
+/home/mathias/.config/chromium/Default/DawnWebGPUCache/data_2
+/home/mathias/.config/chromium/Default/DawnWebGPUCache/data_3
+/home/mathias/.config/chromium/Default/DawnWebGPUCache/index
+/home/mathias/.config/chromium/Default/declarative_performance_observer.db
+/home/mathias/.config/chromium/Default/declarative_performance_observer.db-journal
+/home/mathias/.config/chromium/Default/DIPS
+/home/mathias/.config/chromium/Default/DIPS-wal
+/home/mathias/.config/chromium/Default/discount_infos_db/LOCK
+/home/mathias/.config/chromium/Default/discount_infos_db/LOG
+/home/mathias/.config/chromium/Default/discount_infos_db/LOG.old
+/home/mathias/.config/chromium/Default/discounts_db/LOCK
+/home/mathias/.config/chromium/Default/discounts_db/LOG
+/home/mathias/.config/chromium/Default/discounts_db/LOG.old
+/home/mathias/.config/chromium/Default/Download Service/EntryDB/LOCK
+/home/mathias/.config/chromium/Default/Download Service/EntryDB/LOG
+/home/mathias/.config/chromium/Default/Download Service/EntryDB/LOG.old
+/home/mathias/.config/chromium/Default/Extension Rules/000003.log
+/home/mathias/.config/chromium/Default/Extension Rules/CURRENT
+/home/mathias/.config/chromium/Default/Extension Rules/LOCK
+/home/mathias/.config/chromium/Default/Extension Rules/LOG
+/home/mathias/.config/chromium/Default/Extension Rules/LOG.old
+/home/mathias/.config/chromium/Default/Extension Rules/MANIFEST-000001
+/home/mathias/.config/chromium/Default/Extension Scripts/000003.log
+/home/mathias/.config/chromium/Default/Extension Scripts/CURRENT
+/home/mathias/.config/chromium/Default/Extension Scripts/LOCK
+/home/mathias/.config/chromium/Default/Extension Scripts/LOG
+/home/mathias/.config/chromium/Default/Extension Scripts/LOG.old
+/home/mathias/.config/chromium/Default/Extension Scripts/MANIFEST-000001
+/home/mathias/.config/chromium/Default/Extension State/000003.log
+/home/mathias/.config/chromium/Default/Extension State/CURRENT
+/home/mathias/.config/chromium/Default/Extension State/LOCK
+/home/mathias/.config/chromium/Default/Extension State/LOG
+/home/mathias/.config/chromium/Default/Extension State/LOG.old
+/home/mathias/.config/chromium/Default/Extension State/MANIFEST-000001
+/home/mathias/.config/chromium/Default/Favicons
+/home/mathias/.config/chromium/Default/Favicons-journal
+/home/mathias/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+/home/mathias/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+/home/mathias/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+/home/mathias/.config/chromium/Default/Feature Engagement Tracker/EventDB/LOCK
+/home/mathias/.config/chromium/Default/Feature Engagement Tracker/EventDB/LOG
+/home/mathias/.config/chromium/Default/Feature Engagement Tracker/EventDB/LOG.old
+/home/mathias/.config/chromium/Default/GCM Store/000003.log
+/home/mathias/.config/chromium/Default/GCM Store/CURRENT
+/home/mathias/.config/chromium/Default/GCM Store/Encryption/000003.log
+/home/mathias/.config/chromium/Default/GCM Store/Encryption/CURRENT
+/home/mathias/.config/chromium/Default/GCM Store/Encryption/LOCK
+/home/mathias/.config/chromium/Default/GCM Store/Encryption/LOG
+/home/mathias/.config/chromium/Default/GCM Store/Encryption/LOG.old
+/home/mathias/.config/chromium/Default/GCM Store/Encryption/MANIFEST-000001
+/home/mathias/.config/chromium/Default/GCM Store/LOCK
+/home/mathias/.config/chromium/Default/GCM Store/LOG
+/home/mathias/.config/chromium/Default/GCM Store/LOG.old
+/home/mathias/.config/chromium/Default/GCM Store/MANIFEST-000001
+/home/mathias/.config/chromium/Default/GPUCache/data_0
+/home/mathias/.config/chromium/Default/GPUCache/data_1
+/home/mathias/.config/chromium/Default/GPUCache/data_2
+/home/mathias/.config/chromium/Default/GPUCache/data_3
+/home/mathias/.config/chromium/Default/GPUCache/index
+/home/mathias/.config/chromium/Default/heavy_ad_intervention_opt_out.db
+/home/mathias/.config/chromium/Default/heavy_ad_intervention_opt_out.db-journal
+/home/mathias/.config/chromium/Default/History
+/home/mathias/.config/chromium/Default/History-journal
+/home/mathias/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000004.log
+/home/mathias/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000005.ldb
+/home/mathias/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/CURRENT
+/home/mathias/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/LOCK
+/home/mathias/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/LOG
+/home/mathias/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/LOG.old
+/home/mathias/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+/home/mathias/.config/chromium/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/000003.log
+/home/mathias/.config/chromium/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/CURRENT
+/home/mathias/.config/chromium/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/LOCK
+/home/mathias/.config/chromium/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/LOG
+/home/mathias/.config/chromium/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/MANIFEST-000001
+/home/mathias/.config/chromium/Default/Local Storage/leveldb/000005.ldb
+/home/mathias/.config/chromium/Default/Local Storage/leveldb/000006.log
+/home/mathias/.config/chromium/Default/Local Storage/leveldb/000007.ldb
+/home/mathias/.config/chromium/Default/Local Storage/leveldb/CURRENT
+/home/mathias/.config/chromium/Default/Local Storage/leveldb/LOCK
+/home/mathias/.config/chromium/Default/Local Storage/leveldb/LOG
+/home/mathias/.config/chromium/Default/Local Storage/leveldb/LOG.old
+/home/mathias/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+/home/mathias/.config/chromium/Default/LOCK
+/home/mathias/.config/chromium/Default/LOG
+/home/mathias/.config/chromium/Default/Login Data
+/home/mathias/.config/chromium/Default/Login Data For Account
+/home/mathias/.config/chromium/Default/Login Data For Account-journal
+/home/mathias/.config/chromium/Default/Login Data-journal
+/home/mathias/.config/chromium/Default/LOG.old
+/home/mathias/.config/chromium/Default/MediaDeviceSalts
+/home/mathias/.config/chromium/Default/MediaDeviceSalts-journal
+/home/mathias/.config/chromium/Default/Network Action Predictor
+/home/mathias/.config/chromium/Default/Network Action Predictor-journal
+/home/mathias/.config/chromium/Default/Network Persistent State
+/home/mathias/.config/chromium/Default/optimization_guide_hint_cache_store/LOCK
+/home/mathias/.config/chromium/Default/optimization_guide_hint_cache_store/LOG
+/home/mathias/.config/chromium/Default/optimization_guide_hint_cache_store/LOG.old
+/home/mathias/.config/chromium/Default/parcel_tracking_db/LOCK
+/home/mathias/.config/chromium/Default/parcel_tracking_db/LOG
+/home/mathias/.config/chromium/Default/parcel_tracking_db/LOG.old
+/home/mathias/.config/chromium/Default/PersistentOriginTrials/LOCK
+/home/mathias/.config/chromium/Default/PersistentOriginTrials/LOG
+/home/mathias/.config/chromium/Default/PersistentOriginTrials/LOG.old
+/home/mathias/.config/chromium/Default/Preferences
+/home/mathias/.config/chromium/Default/PreferredApps
+/home/mathias/.config/chromium/Default/Reporting and NEL
+/home/mathias/.config/chromium/Default/Reporting and NEL-journal
+/home/mathias/.config/chromium/Default/SCT Auditing Pending Reports
+/home/mathias/.config/chromium/Default/Secure Preferences
+/home/mathias/.config/chromium/Default/Segmentation Platform/SegmentInfoDB/LOCK
+/home/mathias/.config/chromium/Default/Segmentation Platform/SegmentInfoDB/LOG
+/home/mathias/.config/chromium/Default/Segmentation Platform/SegmentInfoDB/LOG.old
+/home/mathias/.config/chromium/Default/Segmentation Platform/SignalDB/LOCK
+/home/mathias/.config/chromium/Default/Segmentation Platform/SignalDB/LOG
+/home/mathias/.config/chromium/Default/Segmentation Platform/SignalDB/LOG.old
+/home/mathias/.config/chromium/Default/Segmentation Platform/SignalStorageConfigDB/LOCK
+/home/mathias/.config/chromium/Default/Segmentation Platform/SignalStorageConfigDB/LOG
+/home/mathias/.config/chromium/Default/Segmentation Platform/SignalStorageConfigDB/LOG.old
+/home/mathias/.config/chromium/Default/ServerCertificate
+/home/mathias/.config/chromium/Default/ServerCertificate-journal
+/home/mathias/.config/chromium/Default/Service Worker/Database/000003.log
+/home/mathias/.config/chromium/Default/Service Worker/Database/CURRENT
+/home/mathias/.config/chromium/Default/Service Worker/Database/LOCK
+/home/mathias/.config/chromium/Default/Service Worker/Database/LOG
+/home/mathias/.config/chromium/Default/Service Worker/Database/LOG.old
+/home/mathias/.config/chromium/Default/Service Worker/Database/MANIFEST-000001
+/home/mathias/.config/chromium/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0
+/home/mathias/.config/chromium/Default/Service Worker/ScriptCache/4cb013792b196a35_0
+/home/mathias/.config/chromium/Default/Service Worker/ScriptCache/4cb013792b196a35_1
+/home/mathias/.config/chromium/Default/Service Worker/ScriptCache/index
+/home/mathias/.config/chromium/Default/Service Worker/ScriptCache/index-dir/the-real-index
+/home/mathias/.config/chromium/Default/Sessions/Apps_13437487956812623
+/home/mathias/.config/chromium/Default/Sessions/Session_13437492408256610
+/home/mathias/.config/chromium/Default/Sessions/Session_13437492538931947
+/home/mathias/.config/chromium/Default/Sessions/Tabs_13437487977585497
+/home/mathias/.config/chromium/Default/Sessions/Tabs_13437491455634022
+/home/mathias/.config/chromium/Default/Session Storage/000004.log
+/home/mathias/.config/chromium/Default/Session Storage/000005.ldb
+/home/mathias/.config/chromium/Default/Session Storage/CURRENT
+/home/mathias/.config/chromium/Default/Session Storage/LOCK
+/home/mathias/.config/chromium/Default/Session Storage/LOG
+/home/mathias/.config/chromium/Default/Session Storage/MANIFEST-000001
+/home/mathias/.config/chromium/Default/Shared Dictionary/cache/1a78b6d515713717_0
+/home/mathias/.config/chromium/Default/Shared Dictionary/cache/index
+/home/mathias/.config/chromium/Default/Shared Dictionary/cache/index-dir/the-real-index
+/home/mathias/.config/chromium/Default/Shared Dictionary/db
+/home/mathias/.config/chromium/Default/Shared Dictionary/db-journal
+/home/mathias/.config/chromium/Default/shared_proto_db/000003.log
+/home/mathias/.config/chromium/Default/shared_proto_db/CURRENT
+/home/mathias/.config/chromium/Default/shared_proto_db/LOCK
+/home/mathias/.config/chromium/Default/shared_proto_db/LOG
+/home/mathias/.config/chromium/Default/shared_proto_db/LOG.old
+/home/mathias/.config/chromium/Default/shared_proto_db/MANIFEST-000001
+/home/mathias/.config/chromium/Default/shared_proto_db/metadata/000003.log
+/home/mathias/.config/chromium/Default/shared_proto_db/metadata/CURRENT
+/home/mathias/.config/chromium/Default/shared_proto_db/metadata/LOCK
+/home/mathias/.config/chromium/Default/shared_proto_db/metadata/LOG
+/home/mathias/.config/chromium/Default/shared_proto_db/metadata/LOG.old
+/home/mathias/.config/chromium/Default/shared_proto_db/metadata/MANIFEST-000001
+/home/mathias/.config/chromium/Default/Shortcuts
+/home/mathias/.config/chromium/Default/Shortcuts-journal
+/home/mathias/.config/chromium/Default/Site Characteristics Database/000003.log
+/home/mathias/.config/chromium/Default/Site Characteristics Database/CURRENT
+/home/mathias/.config/chromium/Default/Site Characteristics Database/LOCK
+/home/mathias/.config/chromium/Default/Site Characteristics Database/LOG
+/home/mathias/.config/chromium/Default/Site Characteristics Database/LOG.old
+/home/mathias/.config/chromium/Default/Site Characteristics Database/MANIFEST-000001
+/home/mathias/.config/chromium/Default/Sync Data/LevelDB/000003.log
+/home/mathias/.config/chromium/Default/Sync Data/LevelDB/CURRENT
+/home/mathias/.config/chromium/Default/Sync Data/LevelDB/LOCK
+/home/mathias/.config/chromium/Default/Sync Data/LevelDB/LOG
+/home/mathias/.config/chromium/Default/Sync Data/LevelDB/LOG.old
+/home/mathias/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+/home/mathias/.config/chromium/Default/Top Sites
+/home/mathias/.config/chromium/Default/Top Sites-journal
+/home/mathias/.config/chromium/Default/TransportSecurity
+/home/mathias/.config/chromium/Default/Trust Tokens
+/home/mathias/.config/chromium/Default/Trust Tokens-journal
+/home/mathias/.config/chromium/Default/VideoDecodeStats/LOCK
+/home/mathias/.config/chromium/Default/VideoDecodeStats/LOG
+/home/mathias/.config/chromium/Default/Web Data
+/home/mathias/.config/chromium/Default/Web Data-journal
+/home/mathias/.config/chromium/Default/WebStorage/4/CacheStorage/e071d912-6541-44f6-b957-17d087ac8f00/index
+/home/mathias/.config/chromium/Default/WebStorage/4/CacheStorage/e071d912-6541-44f6-b957-17d087ac8f00/index-dir/the-real-index
+/home/mathias/.config/chromium/Default/WebStorage/4/CacheStorage/index.txt
+/home/mathias/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/000003.log
+/home/mathias/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/CURRENT
+/home/mathias/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/LOCK
+/home/mathias/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/LOG
+/home/mathias/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+/home/mathias/.config/chromium/Default/WebStorage/QuotaManager
+/home/mathias/.config/chromium/Default/WebStorage/QuotaManager-journal
+/home/mathias/.config/chromium/Dictionaries/en-US-10-2.bdic
+/home/mathias/.config/chromium/extensions_crx_cache/metadata.json
+/home/mathias/.config/chromium/FileTypePolicies/145.0.7584.0/download_file_types.pb
+/home/mathias/.config/chromium/FileTypePolicies/145.0.7584.0/manifest.json
+/home/mathias/.config/chromium/FileTypePolicies/145.0.7584.0/_metadata/verified_contents.json
+/home/mathias/.config/chromium/first_party_sets.db
+/home/mathias/.config/chromium/first_party_sets.db-journal
+/home/mathias/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/LICENSE
+/home/mathias/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/manifest.json
+/home/mathias/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/_metadata/verified_contents.json
+/home/mathias/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/sets.json
+/home/mathias/.config/chromium/First Run
+/home/mathias/.config/chromium-flags.conf
+/home/mathias/.config/chromium/GPUPersistentCache/GPUCache/4W426E22ZWSHJSPNVOFTRJ6ZUBT4OLM5/cache.db
+/home/mathias/.config/chromium/GPUPersistentCache/GPUCache/4W426E22ZWSHJSPNVOFTRJ6ZUBT4OLM5/cache.db-wal
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-af.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-as.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-be.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-bg.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-bn.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-cs.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-cu.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-cy.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-da.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-de-1901.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-de-1996.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-de-ch-1901.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-el.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-en-gb.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-en-us.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-es.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-et.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-eu.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-fr.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-ga.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-gl.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-gu.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-hi.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-hr.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-hu.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-hy.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-it.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-ka.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-kn.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-la.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-lt.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-lv.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-ml.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-mn-cyrl.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-mr.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-mul-ethi.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-nb.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-nl.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-nn.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-or.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-pa.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-pt.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-ru.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-sk.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-sl.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-sq.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-sv.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-ta.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-te.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-tk.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-uk.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/hyph-und-ethi.hyb
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/manifest.json
+/home/mathias/.config/chromium/hyphen-data/120.0.6050.0/_metadata/verified_contents.json
+/home/mathias/.config/chromium/Last Version
+/home/mathias/.config/chromium/Local State
+/home/mathias/.config/chromium/MEIPreload/1.1.0.3/manifest.json
+/home/mathias/.config/chromium/MEIPreload/1.1.0.3/_metadata/verified_contents.json
+/home/mathias/.config/chromium/MEIPreload/1.1.0.3/preloaded_data.pb
+/home/mathias/.config/chromium/NativeMessagingHosts/com.omarchy.copy_url.json
+/home/mathias/.config/chromium/NativeMessagingHosts/com.omarchy.ytdlp.json
+/home/mathias/.config/chromium/OnDeviceHeadSuggestModel/20251024.824731831.14/cr_en-us_500000_index.bin
+/home/mathias/.config/chromium/OnDeviceHeadSuggestModel/20251024.824731831.14/manifest.json
+/home/mathias/.config/chromium/OnDeviceHeadSuggestModel/20251024.824731831.14/_metadata/verified_contents.json
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/laya_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/manifest.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/manifest.json
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/_metadata/verified_contents.json
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/prompt_gemma4_12b_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/prompt_gemma4_4b_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/prompt_gemma4_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/prompt_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/proofreader_small_expert_model_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/scam_detection_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/speech_recognition_small_expert_model_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_gemma4_12b_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_gemma4_4b_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_gemma4_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_nano_v3_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_small_expert_model_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/writing_assistance_gemma4_12b_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/writing_assistance_gemma4_4b_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/writing_assistance_gemma4_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/writing_assistance_solution_config.binarypb
+/home/mathias/.config/chromium/OptimizationHints/765/manifest.json
+/home/mathias/.config/chromium/OptimizationHints/765/_metadata/verified_contents.json
+/home/mathias/.config/chromium/OptimizationHints/765/optimization-hints.pb
+/home/mathias/.config/chromium/PKIMetadata/1815/crs.pb
+/home/mathias/.config/chromium/PKIMetadata/1815/ct_config.pb
+/home/mathias/.config/chromium/PKIMetadata/1815/kp_pinslist.pb
+/home/mathias/.config/chromium/PKIMetadata/1815/manifest.json
+/home/mathias/.config/chromium/PKIMetadata/1815/_metadata/verified_contents.json
+/home/mathias/.config/chromium/PKIMetadata/1815/mtc_config.pb
+/home/mathias/.config/chromium/PrivacySandboxAttestationsPreloaded/2025.6.16.0/manifest.json
+/home/mathias/.config/chromium/PrivacySandboxAttestationsPreloaded/2025.6.16.0/_metadata/verified_contents.json
+/home/mathias/.config/chromium/PrivacySandboxAttestationsPreloaded/2025.6.16.0/privacy-sandbox-attestations.dat
+/home/mathias/.config/chromium/Safe Browsing/ChromeExtMalware.store
+/home/mathias/.config/chromium/Safe Browsing/ChromeExtMalware.store.32_13437491543335339
+/home/mathias/.config/chromium/Safe Browsing/UrlBilling.store
+/home/mathias/.config/chromium/Safe Browsing/UrlBilling.store.4_13437491543332964
+/home/mathias/.config/chromium/Safe Browsing/UrlCsdDownloadAllowlist.store
+/home/mathias/.config/chromium/Safe Browsing/UrlCsdDownloadAllowlist.store.32_13437491543329844
+/home/mathias/.config/chromium/Safe Browsing/UrlMalBin.store
+/home/mathias/.config/chromium/Safe Browsing/UrlMalBin.store.4_13437491543330939
+/home/mathias/.config/chromium/Safe Browsing/UrlMalware.store
+/home/mathias/.config/chromium/Safe Browsing/UrlMalware.store.4_13437491543356925
+/home/mathias/.config/chromium/Safe Browsing/UrlSoceng.store
+/home/mathias/.config/chromium/Safe Browsing/UrlSoceng.store.4_13437491543586935
+/home/mathias/.config/chromium/Safe Browsing/UrlUws.store
+/home/mathias/.config/chromium/Safe Browsing/UrlUws.store.4_13437491543348949
+/home/mathias/.config/chromium/SafetyTips/3092/manifest.json
+/home/mathias/.config/chromium/SafetyTips/3092/_metadata/verified_contents.json
+/home/mathias/.config/chromium/SafetyTips/3092/safety_tips.pb
+/home/mathias/.config/chromium/segmentation_platform/ukm_db
+/home/mathias/.config/chromium/segmentation_platform/ukm_db-wal
+/home/mathias/.config/chromium/SSLErrorAssistant/7/manifest.json
+/home/mathias/.config/chromium/SSLErrorAssistant/7/_metadata/verified_contents.json
+/home/mathias/.config/chromium/SSLErrorAssistant/7/ssl_error_assistant.pb
+/home/mathias/.config/chromium/Subresource Filter/Indexed Rules/38/9.73.1/Ruleset Data
+/home/mathias/.config/chromium/Subresource Filter/Unindexed Rules/9.73.1/Filtering Rules
+/home/mathias/.config/chromium/Subresource Filter/Unindexed Rules/9.73.1/LICENSE.txt
+/home/mathias/.config/chromium/Subresource Filter/Unindexed Rules/9.73.1/manifest.json
+/home/mathias/.config/chromium/Subresource Filter/Unindexed Rules/9.73.1/_metadata/verified_contents.json
+/home/mathias/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/keys.json
+/home/mathias/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/LICENSE
+/home/mathias/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/manifest.json
+/home/mathias/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/_metadata/verified_contents.json
+/home/mathias/.config/chromium/Variations
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/background_compiled.js
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/bindings_main.js
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/bindings_main.wasm
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/manifest.json
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/_metadata/verified_contents.json
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/offscreen_compiled.js
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/offscreen.html
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/streaming_worklet_processor.js
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/voices.json
+/home/mathias/.config/chromium/WasmTtsEngine/20261005.1/wasm_tts_manifest_v3.json
+/home/mathias/.config/chromium/WidevineCdm/4.10.3112.0/LICENSE
+/home/mathias/.config/chromium/WidevineCdm/4.10.3112.0/manifest.json
+/home/mathias/.config/chromium/WidevineCdm/4.10.3112.0/_metadata/verified_contents.json
+/home/mathias/.config/chromium/WidevineCdm/4.10.3112.0/_platform_specific/linux_x64/libwidevinecdm.so
+/home/mathias/.config/chromium/WidevineCdm/latest-component-updated-widevine-cdm
+/home/mathias/.config/chromium/ZxcvbnData/3/english_wikipedia.txt
+/home/mathias/.config/chromium/ZxcvbnData/3/female_names.txt
+/home/mathias/.config/chromium/ZxcvbnData/3/male_names.txt
+/home/mathias/.config/chromium/ZxcvbnData/3/manifest.json
+/home/mathias/.config/chromium/ZxcvbnData/3/_metadata/verified_contents.json
+/home/mathias/.config/chromium/ZxcvbnData/3/passwords.txt
+/home/mathias/.config/chromium/ZxcvbnData/3/ranked_dicts
+/home/mathias/.config/chromium/ZxcvbnData/3/surnames.txt
+/home/mathias/.config/chromium/ZxcvbnData/3/us_tv_and_film.txt
+/home/mathias/.config/dconf/user
+/home/mathias/.config/fcitx5/conf/cached_layouts
+/home/mathias/.config/fcitx5/conf/clipboard.conf
+/home/mathias/.config/fcitx5/conf/notifications.conf
+/home/mathias/.config/fcitx5/conf/xcb.conf
+/home/mathias/.config/fcitx5/profile
+/home/mathias/.config/fcitx/dbus/18dbfdde31e64bbc98d66db2bb57b565-0
+/home/mathias/.config/foot/foot.ini
+/home/mathias/.config/ghostty/config
+/home/mathias/.config/git/config
+/home/mathias/.config/google-chrome-beta/NativeMessagingHosts/com.omarchy.copy_url.json
+/home/mathias/.config/google-chrome-beta/NativeMessagingHosts/com.omarchy.ytdlp.json
+/home/mathias/.config/google-chrome/NativeMessagingHosts/com.omarchy.copy_url.json
+/home/mathias/.config/google-chrome/NativeMessagingHosts/com.omarchy.ytdlp.json
+/home/mathias/.config/google-chrome-unstable/NativeMessagingHosts/com.omarchy.copy_url.json
+/home/mathias/.config/google-chrome-unstable/NativeMessagingHosts/com.omarchy.ytdlp.json
+/home/mathias/.config/gtk-3.0/bookmarks
+/home/mathias/.config/herdr/config.toml
+/home/mathias/.config/hypr/autostart.lua
+/home/mathias/.config/hypr/bindings.lua
+/home/mathias/.config/hypr/hyprland.lua
+/home/mathias/.config/hypr/hyprsunset.conf
+/home/mathias/.config/hypr/input.lua
+/home/mathias/.config/hyprland-mimeapps.list
+/home/mathias/.config/hyprland-preview-share-picker/config.yaml
+/home/mathias/.config/hypr/looknfeel.lua
+/home/mathias/.config/hypr/.luarc.json
+/home/mathias/.config/hypr/monitors.lua
+/home/mathias/.config/hypr/xdph.conf
+/home/mathias/.config/ibus/bus/18dbfdde31e64bbc98d66db2bb57b565-unix-0
+/home/mathias/.config/ibus/bus/18dbfdde31e64bbc98d66db2bb57b565-unix-wayland-1
+/home/mathias/.config/imv/config
+/home/mathias/.config/kitty/kitty.conf
+/home/mathias/.config/lazygit/config.yml
+/home/mathias/.config/microsoft-edge-dev/NativeMessagingHosts/com.omarchy.copy_url.json
+/home/mathias/.config/microsoft-edge-dev/NativeMessagingHosts/com.omarchy.ytdlp.json
+/home/mathias/.config/microsoft-edge/NativeMessagingHosts/com.omarchy.copy_url.json
+/home/mathias/.config/microsoft-edge/NativeMessagingHosts/com.omarchy.ytdlp.json
+/home/mathias/.config/mimeapps.list
+/home/mathias/.config/mise/config.toml
+/home/mathias/.config/nvim/.gitignore
+/home/mathias/.config/nvim/init.lua
+/home/mathias/.config/nvim/lazy-lock.json
+/home/mathias/.config/nvim/lazyvim.json
+/home/mathias/.config/nvim/LICENSE
+/home/mathias/.config/nvim/lua/config/autocmds.lua
+/home/mathias/.config/nvim/lua/config/keymaps.lua
+/home/mathias/.config/nvim/lua/config/lazy.lua
+/home/mathias/.config/nvim/lua/config/options.lua
+/home/mathias/.config/nvim/lua/config/remote_clipboard.lua
+/home/mathias/.config/nvim/lua/plugins/all-themes.lua
+/home/mathias/.config/nvim/lua/plugins/disable-news-alert.lua
+/home/mathias/.config/nvim/lua/plugins/example.lua
+/home/mathias/.config/nvim/lua/plugins/lualine-transparent.lua
+/home/mathias/.config/nvim/lua/plugins/omarchy-theme-hotreload.lua
+/home/mathias/.config/nvim/lua/plugins/snacks-animated-scrolling-off.lua
+/home/mathias/.config/nvim/.neoconf.json
+/home/mathias/.config/nvim/plugin/after/transparency.lua
+/home/mathias/.config/nvim/README.md
+/home/mathias/.config/nvim/stylua.toml
+/home/mathias/.config/obsidian/user-flags.conf
+/home/mathias/.config/omarchy/branding/about.txt
+/home/mathias/.config/omarchy/branding/screensaver.txt
+/home/mathias/.config/omarchy/extensions/omarchy-menu.jsonc
+/home/mathias/.config/omarchy/hooks/battery-low.d/play-warning-sound.sample
+/home/mathias/.config/omarchy/hooks/font-set.d/show-font-notification.sample
+/home/mathias/.config/omarchy/hooks/post-boot.d/weather.sample
+/home/mathias/.config/omarchy/hooks/post-update.d/install-voxtype.hook
+/home/mathias/.config/omarchy/hooks/post-update.d/setup-agent.hook
+/home/mathias/.config/omarchy/hooks/post-update.d/setup-fingerprint.hook
+/home/mathias/.config/omarchy/hooks/post-update.d/show-update-notification.sample
+/home/mathias/.config/omarchy/hooks/pre-refresh-pacman.d/add-custom-repo.sample
+/home/mathias/.config/omarchy/hooks/theme-set.d/show-theme-notification.sample
+/home/mathias/.config/omarchy/shell.json
+/home/mathias/.config/omarchy/themed/alacritty.toml.tpl.sample
+/home/mathias/.config/opencode/opencode.json
+/home/mathias/.config/pulse/cookie
+/home/mathias/.config/starship.toml
+/home/mathias/.config/tmux/tmux.conf
+/home/mathias/.config/user-dirs.dirs
+/home/mathias/.config/wireplumber/wireplumber.conf.d/bluetooth-a2dp-autoconnect.conf
+/home/mathias/.config/wireplumber/wireplumber.conf.d/kef-lsx-no-suspend.conf
+/home/mathias/.config/xournalpp/settings.xml

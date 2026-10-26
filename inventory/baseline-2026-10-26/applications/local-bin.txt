@@ -1,0 +1,15 @@
+/home/mathias/.local/bin/claude
+/home/mathias/.local/bin/codex
+/home/mathias/.local/bin/copilot
+/home/mathias/.local/bin/crush
+/home/mathias/.local/bin/cursor-agent
+/home/mathias/.local/bin/gemini
+/home/mathias/.local/bin/gh
+/home/mathias/.local/bin/ghui
+/home/mathias/.local/bin/grok
+/home/mathias/.local/bin/hunk
+/home/mathias/.local/bin/muse
+/home/mathias/.local/bin/omp
+/home/mathias/.local/bin/opencode
+/home/mathias/.local/bin/pi
+/home/mathias/.local/bin/playwright
