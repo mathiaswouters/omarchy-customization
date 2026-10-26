@@ -1,17 +1,10 @@
 # omarchy-customization
 
-## Run install script:
+## Run customize script:
 ```bash
-chmod +x install.sh
+chmod +x customize.sh
 
-./install.sh
-```
-
-## Run configure script:
-```bash
-chmod +x configure.sh
-
-./configure.sh
+./customize.sh
 ```
 
 ## Run collection script:
