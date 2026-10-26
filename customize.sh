@@ -24,7 +24,6 @@ run_script() {
 }
 
 # Execute each script using the helper function
-run_script ./"$SCRIPT_DIR"/install-brave.sh
 run_script ./"$SCRIPT_DIR"/install-zsh.sh
 run_script ./"$SCRIPT_DIR"/install-tmux.sh
 run_script ./"$SCRIPT_DIR"/install-yazi.sh
