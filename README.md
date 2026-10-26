@@ -1,6 +1,12 @@
 # omarchy-customization
 
-## Run customize script:
+## Steps:
+
+### Install Brave:
+- Install brave trough omarchy
+- Change default browser to brave in omarchy
+
+### Run customize script:
 ```bash
 chmod +x customize.sh
 chmod +x scripts/*.sh
